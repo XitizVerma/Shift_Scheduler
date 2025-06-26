@@ -561,4 +561,4 @@ npm start    # Starts development server
 
 ## License
 
-This project is a joint collaboration of Xitiz Verma, Harshita G M, Yadhu. 
+This project is a joint collaboration of Xitiz Verma, Harshita M, Yadhu. 

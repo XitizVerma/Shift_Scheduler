@@ -1,6 +1,6 @@
 # Shift Management System
 
-A complete CRUD application for managing employee shifts with React frontend and Express.js backend.
+A complete all in one application for managing employee shifts with React frontend and Express.js backend.
 
 ## Project Structure
 
